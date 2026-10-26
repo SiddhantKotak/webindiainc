@@ -1,26 +1,155 @@
 @import "tailwindcss";
 
+/* WebIndia's live brand palette (docs/live-audit/README.md: navy #081424, blue #0048A9, orange
+   #FF6600, yellow #FFD64F, slate #202B39) on the light, outlined layout. Light-only. */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --paper: #fbf9f5;
+  --tint: #eaf1fb;
+  --ink: #081424;
+  --sky: #b9cff2;
+  --blue: #0048a9;
+  --slate: #202b39;
+  --orange: #ff6600;
+  --yellow: #ffd64f;
+  --cta: var(--blue);
+  --accent: var(--orange);
+
+  --background: var(--paper);
+  --foreground: var(--ink);
+
+  /* Font roles → families loaded in src/lib/fonts.ts (pairing "A"). */
+  --font-display-family: var(--font-mona);
+  --font-body-family: var(--font-mona);
+  --font-numeric-family: var(--font-mona);
+  --font-accent-family: var(--font-instrument-serif);
+  --font-hand-family: var(--font-caveat);
+
+  /* Big-number styling (the reference's "Bold Extended" role); components only
+     use the `numeral` utility. */
+  --numeral-weight: 750;
+  --numeral-stretch: 125%;
+
+  /* Layout: one gutter shared by the header and every section, so content edges line up with
+     the header at every width. `--content` is the max width including gutters; full-bleed
+     sections that must align with contained ones use `--page-margin`. */
+  --gutter: 1rem;
+  --content: 1600px;
+  --page-margin: max(var(--gutter), calc((100vw - var(--content)) / 2 + var(--gutter)));
+}
+
+@media (min-width: 640px) {
+  :root {
+    --gutter: 1.5rem;
+  }
+}
+@media (min-width: 1024px) {
+  :root {
+    --gutter: 2rem;
+  }
+}
+@media (min-width: 1280px) {
+  :root {
+    --gutter: 3.25rem;
+  }
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-paper: var(--paper);
+  --color-tint: var(--tint);
+  --color-ink: var(--ink);
+  --color-sky: var(--sky);
+  --color-blue: var(--blue);
+  --color-slate: var(--slate);
+  --color-orange: var(--orange);
+  --color-yellow: var(--yellow);
+  --color-cta: var(--cta);
+  --color-accent: var(--accent);
+
+  /* Font roles. layout.tsx points these at the chosen families, so swapping
+     the typeface never touches components. */
+  --font-display: var(--font-display-family);
+  --font-sans: var(--font-body-family);
+  --font-numeric: var(--font-numeric-family);
+  --font-accent: var(--font-accent-family);
+  --font-hand: var(--font-hand-family);
+
+  --radius-card: 8px;
+  --shadow-btn: 0 0 24px rgb(0 0 0 / 0.3);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@utility numeral {
+  font-family: var(--font-numeric-family), system-ui, sans-serif;
+  font-weight: var(--numeral-weight);
+  font-stretch: var(--numeral-stretch);
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+
+/* Reveal failsafe. Motion's entrance animations server-render their hidden first frame as
+   inline styles (`opacity:0`, `clip-path:inset(…)`), which only JavaScript lifts. If scripts
+   fail or stall, this reveals that content after 3.5 s; a CSS animation outranks inline styles
+   in the cascade. It is scoped to `html:not(.js-ready)` (SmoothScroll adds the class on
+   hydration), so it never touches Motion once the app runs. SVG children are excluded: their
+   hidden state is a zero-length stroke that would paint as a stray dot. Without JavaScript at
+   all, layout.tsx's <noscript> rule does the same immediately. */
+@keyframes wi-failsafe {
+  to {
+    opacity: 1;
+    transform: none;
+    clip-path: none;
+  }
+}
+html:not(.js-ready) :is([style^="opacity:0"], [style*=";opacity:0"], [style*="clip-path:inset("]):not(svg *) {
+  animation: wi-failsafe 0.01s linear 3.5s forwards;
+}
+
+/* Slow idle rotation for the hero tangles (scribble-tangle.tsx sets the duration). With
+   `transform-box: view-box` the origin is measured from user-space 0,0 — NOT from the viewBox's
+   min corner — and the tangle viewBoxes are centred on 0,0, so `0 0` is the centre. (`50% 50%`
+   would orbit each tangle around its corner and swing it out of its SVG, clipping it.) */
+@keyframes wi-spin {
+  to {
+    rotate: 360deg;
+  }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .wi-drift {
+    transform-box: view-box;
+    transform-origin: 0 0;
+    animation: wi-spin 60s linear infinite;
   }
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-body-family), system-ui, sans-serif;
+}
+
+::selection {
+  background: var(--yellow);
+  color: var(--ink);
+}
+
+@layer base {
+  /* Navy ring with an orange halo: visible on paper, tint, blue, yellow, orange and navy alike
+     (a plain orange ring vanished on the orange card and fell under 3:1 on light surfaces).
+     Layered, so a component's own focus-visible utilities can override it. */
+  :focus-visible {
+    outline: 2px solid var(--ink);
+    outline-offset: 2px;
+    box-shadow: 0 0 0 5px var(--accent);
+  }
+  /* Sections and <main> receive focus programmatically after in-page navigation (so the next
+     Tab continues from there); a ring around a whole section is noise, so they get none. */
+  /* On dark panels the navy outline disappears; use paper there. */
+  :where(.bg-ink, .bg-slate, .bg-blue) :focus-visible {
+    outline-color: var(--paper);
+  }
+  [tabindex="-1"]:focus-visible {
+    outline: none;
+    box-shadow: none;
+  }
 }

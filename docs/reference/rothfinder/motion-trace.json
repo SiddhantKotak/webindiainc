@@ -1,0 +1,725 @@
+{
+  "count": 80,
+  "out": [
+    {
+      "label": "div.logo-wrap.intro-logo.relative \"\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 960,
+      "kind": "TRIGGER",
+      "first": "transform: translate(-72px, 0px) scale(1.15, 1.15); translate: none; rotate: none; scale: none; opacity: 0;",
+      "last": "transform: scale(1.15, 1.15); translate: none; rotate: none; scale: none; opacity: 1;"
+    },
+    {
+      "label": "div.word.relative \"turns\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 960,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"complex\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 960,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"Roth\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 960,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"conversion\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 1080,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"strategies\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 1080,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"into\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 1080,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"clear,\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 1080,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"visual\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 1080,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"stories\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 1080,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"that\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 1080,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"help\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 1080,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"advisors\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 1080,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"close\" @turns complex Rothconversion",
+      "changes": 4,
+      "from": 0,
+      "to": 1200,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"cases\" @turns complex Rothconversion",
+      "changes": 4,
+      "from": 0,
+      "to": 1200,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"and\" @turns complex Rothconversion",
+      "changes": 4,
+      "from": 0,
+      "to": 1200,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"help\" @turns complex Rothconversion",
+      "changes": 4,
+      "from": 0,
+      "to": 1200,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"clients\" @turns complex Rothconversion",
+      "changes": 4,
+      "from": 0,
+      "to": 1200,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"make\" @turns complex Rothconversion",
+      "changes": 4,
+      "from": 0,
+      "to": 1200,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"better\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 1200,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"long-term\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 1200,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"tax\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 1200,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.word.relative \"decisions.\" @turns complex Rothconversion",
+      "changes": 3,
+      "from": 0,
+      "to": 1200,
+      "kind": "TRIGGER",
+      "first": "position: relative; display: inline-block; opacity: 0; translate: none; rotate: none; scale: none; transform: ",
+      "last": "position: relative; display: inline-block; opacity: 1; translate: none; rotate: none; scale: none; transform: "
+    },
+    {
+      "label": "div.cta-group.mt-8.flex \"Start Your Subscription\" @turns complex Rothconversion",
+      "changes": 4,
+      "from": 0,
+      "to": 1320,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: scale(0.8, 0.8); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "section.section-wrap.relative.w-full \"BENEFITS From first con\" @From first conversation to c",
+      "changes": 3,
+      "from": 0,
+      "to": 6480,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; inset: 0px auto auto 0px; margin: 0px; max-width: 1425px; width: 1",
+      "last": "translate: none; rotate: none; scale: none; inset: 0px auto auto 0px; margin: 0px; max-width: 1425px; width: 1"
+    },
+    {
+      "label": "li.transition-transform.duration-500.ease-in-out \"FIND AN OPPORTUNITY\" @From first conversation to c",
+      "changes": 2,
+      "from": 0,
+      "to": 4320,
+      "kind": "TRIGGER",
+      "first": "transform: translateY(0px);",
+      "last": "transform: translateY(-1.5rem);"
+    },
+    {
+      "label": "li.transition-transform.duration-500.ease-in-out \"BUILD THE STRATEGY\" @From first conversation to c",
+      "changes": 3,
+      "from": 0,
+      "to": 5160,
+      "kind": "TRIGGER",
+      "first": "transform: translateY(1.5rem);",
+      "last": "transform: translateY(-1.5rem);"
+    },
+    {
+      "label": "li.transition-transform.duration-500.ease-in-out \"SHOW THE IMPACT\" @From first conversation to c",
+      "changes": 3,
+      "from": 0,
+      "to": 6120,
+      "kind": "TRIGGER",
+      "first": "transform: translateY(1.5rem);",
+      "last": "transform: translateY(-1.5rem);"
+    },
+    {
+      "label": "li.transition-transform.duration-500.ease-in-out \"CLOSE WITH CONFIDENCE\" @From first conversation to c",
+      "changes": 2,
+      "from": 0,
+      "to": 6120,
+      "kind": "TRIGGER",
+      "first": "transform: translateY(1.5rem);",
+      "last": "transform: translateY(0px);"
+    },
+    {
+      "label": "div.slider-el.gap-side-mob.border-blocks \"01. Find an opportunity \" @From first conversation to c",
+      "changes": 24,
+      "from": 0,
+      "to": 6480,
+      "kind": "SCRUB",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); touch-action: pan-y;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(-1213.2px, 0px); touch-action: pan-y;"
+    },
+    {
+      "label": "div.slide-text.border-block.absolute \"Find an opportunity Unc\" @From first conversation to c",
+      "changes": 5,
+      "from": 0,
+      "to": 4680,
+      "kind": "TRIGGER",
+      "first": "touch-action: pan-y; height: 128px;",
+      "last": "touch-action: pan-y; height: 63px;"
+    },
+    {
+      "label": "div.expand-text.overflow-hidden \"Uncover hidden tax-savin\" @From first conversation to c",
+      "changes": 6,
+      "from": 0,
+      "to": 4800,
+      "kind": "TRIGGER",
+      "first": "touch-action: pan-y; opacity: 1;",
+      "last": "touch-action: pan-y; opacity: 0;"
+    },
+    {
+      "label": "div.slide-text.border-block.absolute \"Build the Strategy Turn\" @From first conversation to c",
+      "changes": 9,
+      "from": 0,
+      "to": 5520,
+      "kind": "SCRUB",
+      "first": "touch-action: pan-y; height: 63px;",
+      "last": "touch-action: pan-y; height: 63px;"
+    },
+    {
+      "label": "div.expand-text.overflow-hidden \"Turn tax complexity into\" @From first conversation to c",
+      "changes": 12,
+      "from": 0,
+      "to": 5640,
+      "kind": "SCRUB",
+      "first": "touch-action: pan-y; opacity: 0;",
+      "last": "touch-action: pan-y; opacity: 0;"
+    },
+    {
+      "label": "div.slide-text.border-block.absolute \"Show the Impact Bring t\" @From first conversation to c",
+      "changes": 9,
+      "from": 0,
+      "to": 6480,
+      "kind": "SCRUB",
+      "first": "touch-action: pan-y; height: 63px;",
+      "last": "touch-action: pan-y; height: 63px;"
+    },
+    {
+      "label": "div.expand-text.overflow-hidden \"Bring the strategy to li\" @From first conversation to c",
+      "changes": 12,
+      "from": 0,
+      "to": 6600,
+      "kind": "SCRUB",
+      "first": "touch-action: pan-y; opacity: 0;",
+      "last": "touch-action: pan-y; opacity: 0;"
+    },
+    {
+      "label": "div.slide-text.border-block.absolute \"Close with Confidence G\" @From first conversation to c",
+      "changes": 5,
+      "from": 0,
+      "to": 6480,
+      "kind": "TRIGGER",
+      "first": "touch-action: pan-y; height: 63px;",
+      "last": "touch-action: pan-y; height: 146px;"
+    },
+    {
+      "label": "div.expand-text.overflow-hidden \"Give clients a clear und\" @From first conversation to c",
+      "changes": 7,
+      "from": 0,
+      "to": 6840,
+      "kind": "SCRUB",
+      "first": "touch-action: pan-y; opacity: 0;",
+      "last": "touch-action: pan-y; opacity: 1;"
+    },
+    {
+      "label": "h2.words-el.w-full.justify-between \"Meet Angie\" @Meet Angie",
+      "changes": 7,
+      "from": 0,
+      "to": 7680,
+      "kind": "SCRUB",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 112px);"
+    },
+    {
+      "label": "span.word-left \"Meet\" @Meet Angie",
+      "changes": 7,
+      "from": 0,
+      "to": 7680,
+      "kind": "SCRUB",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(299.828px, 0px);"
+    },
+    {
+      "label": "span.word-right \"Angie\" @Meet Angie",
+      "changes": 7,
+      "from": 0,
+      "to": 7680,
+      "kind": "SCRUB",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(-284.828px, 0px);"
+    },
+    {
+      "label": "div.angie-photo.relative.z-0 \"\" @Meet Angie",
+      "changes": 5,
+      "from": 0,
+      "to": 7440,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 160px) scale(0.5, 0.5); opacity: 0;"
+    },
+    {
+      "label": "div.angie-photo.relative.z-0 \"\" @Meet Angie",
+      "changes": 8,
+      "from": 0,
+      "to": 8400,
+      "kind": "SCRUB",
+      "first": "opacity: 0; transform: translate(-50%, -50%) translate(0px, -160px) scale(0.2, 0.2); translate: none; rotate: ",
+      "last": "opacity: 1; transform: translate(-50%, -50%) scale(0.5, 0.5); translate: none; rotate: none; scale: none;"
+    },
+    {
+      "label": "div.calculator-item.border-blocks.relative \"Time Savings How many R\" @Confidently show clients the",
+      "changes": 3,
+      "from": 0,
+      "to": 11760,
+      "kind": "TRIGGER",
+      "first": "z-index: 1; translate: none; rotate: none; scale: none; inset: 0px auto auto 0px; margin: 0px; max-width: 1184",
+      "last": "z-index: 1; translate: none; rotate: none; scale: none; inset: 0px auto auto 0px; margin: 0px; max-width: 1184"
+    },
+    {
+      "label": "div.scroll-darken.pointer-events-none.absolute \"\" @Confidently show clients the",
+      "changes": 6,
+      "from": 0,
+      "to": 11760,
+      "kind": "TRIGGER",
+      "first": "opacity: 0;",
+      "last": "opacity: 0.5;"
+    },
+    {
+      "label": "div.slider-thumb.w-side-lg.bg-lime \"1 Clients\" @Confidently show clients the",
+      "changes": 6,
+      "from": 0,
+      "to": 11280,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate3d(8px, 0px, 0px); touch-action: pan-y; cursor",
+      "last": "translate: none; rotate: none; scale: none; transform: translate3d(1032px, 0px, 0px); touch-action: pan-y; cur"
+    },
+    {
+      "label": "div.scroll-darken.pointer-events-none.absolute \"\" @Confidently show clients the",
+      "changes": 6,
+      "from": 0,
+      "to": 11760,
+      "kind": "TRIGGER",
+      "first": "opacity: 0;",
+      "last": "opacity: 0.5;"
+    },
+    {
+      "label": "div.slider-thumb.bg-lime.absolute \"$100K\" @Confidently show clients the",
+      "changes": 6,
+      "from": 0,
+      "to": 11760,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate3d(8px, 0px, 0px); touch-action: pan-y; cursor",
+      "last": "translate: none; rotate: none; scale: none; transform: translate3d(1032px, 0px, 0px); touch-action: pan-y; cur"
+    },
+    {
+      "label": "div.callout-bg.relative.overflow-hidden \"Your best return isn't i\" @Your best return isn't in th",
+      "changes": 6,
+      "from": 0,
+      "to": 12360,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; opacity: 0; transform: translate(460.5px, 0px) scale(0.8, 0.8); wi",
+      "last": "translate: none; rotate: none; scale: none; opacity: 1; transform: translate(0px, 0px); width: 100%;"
+    },
+    {
+      "label": "div.image-el.dato-image.absolute \"\" @Your best return isn't in th",
+      "changes": 5,
+      "from": 0,
+      "to": 12360,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(-39.5%, 0%);",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+    },
+    {
+      "label": "h2.anim-el.h2 \"Your best return isn't i\" @Your best return isn't in th",
+      "changes": 4,
+      "from": 0,
+      "to": 12480,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(50px, 0px); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.anim-el \"Because the better you p\" @Your best return isn't in th",
+      "changes": 4,
+      "from": 0,
+      "to": 12480,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(50px, 0px); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.cta-wrap.anim-el \"Start Your Subscription\" @Your best return isn't in th",
+      "changes": 4,
+      "from": 0,
+      "to": 12600,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(50px, 0px); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.features-list.relative.z-1 \"Strategy Engine Multi-ye\" @Everything you need in one p",
+      "changes": 6,
+      "from": 0,
+      "to": 13440,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: scale(0.8, 0.8); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.features-list.relative.z-1 \"Projections & Analytics \" @Everything you need in one p",
+      "changes": 5,
+      "from": 0,
+      "to": 13800,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: scale(0.8, 0.8); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.features-list.relative.z-1 \"Scenario Comparison Side\" @Everything you need in one p",
+      "changes": 5,
+      "from": 0,
+      "to": 14160,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: scale(0.8, 0.8); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.features-list.relative.z-1 \"Angie AI (Always On) Rea\" @Everything you need in one p",
+      "changes": 5,
+      "from": 0,
+      "to": 14520,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: scale(0.8, 0.8); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.features-list.relative.z-1 \"Client Experience Intera\" @Everything you need in one p",
+      "changes": 6,
+      "from": 0,
+      "to": 15000,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: scale(0.8, 0.8); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "header.space-y-section-header-mob.relative.text-left \"ECONOMIC VALUE This Isn\" @This Isn't an Expense — It's",
+      "changes": 4,
+      "from": 0,
+      "to": 15360,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(0px, 50px); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.list-el.border-blocks-horiz.relative \"01. Close more Roth conv\" @This Isn't an Expense — It's",
+      "changes": 4,
+      "from": 0,
+      "to": 15240,
+      "kind": "TRIGGER",
+      "first": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(-101%, 0%);",
+      "last": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+    },
+    {
+      "label": "div.box-number.shrink-0.font-helvetica-bold \"01.\" @This Isn't an Expense — It's",
+      "changes": 4,
+      "from": 0,
+      "to": 15360,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: scale(0.6, 0.6); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.text-el \"Close more Roth conversi\" @This Isn't an Expense — It's",
+      "changes": 3,
+      "from": 0,
+      "to": 15360,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(20px, 0px); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.list-el.border-blocks-horiz.relative \"02. Build in Minutes Co\" @This Isn't an Expense — It's",
+      "changes": 4,
+      "from": 0,
+      "to": 15240,
+      "kind": "TRIGGER",
+      "first": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(-101%, 0%);",
+      "last": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+    },
+    {
+      "label": "div.box-number.shrink-0.font-helvetica-bold \"02.\" @This Isn't an Expense — It's",
+      "changes": 3,
+      "from": 0,
+      "to": 15360,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: scale(0.6, 0.6); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.text-el \"Build in Minutes Comple\" @This Isn't an Expense — It's",
+      "changes": 3,
+      "from": 0,
+      "to": 15360,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(20px, 0px); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.list-el.border-blocks-horiz.relative \"03. Show the Math Cinem\" @This Isn't an Expense — It's",
+      "changes": 4,
+      "from": 0,
+      "to": 15360,
+      "kind": "TRIGGER",
+      "first": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(-101%, 0%);",
+      "last": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+    },
+    {
+      "label": "div.box-number.shrink-0.font-helvetica-bold \"03.\" @This Isn't an Expense — It's",
+      "changes": 4,
+      "from": 0,
+      "to": 15480,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: scale(0.6, 0.6); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.text-el \"Show the Math Cinematic\" @This Isn't an Expense — It's",
+      "changes": 3,
+      "from": 0,
+      "to": 15480,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(20px, 0px); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.list-el.border-blocks-horiz.relative \"04. Close More Cases Pr\" @This Isn't an Expense — It's",
+      "changes": 4,
+      "from": 0,
+      "to": 15360,
+      "kind": "TRIGGER",
+      "first": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(-101%, 0%);",
+      "last": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+    },
+    {
+      "label": "div.box-number.shrink-0.font-helvetica-bold \"04.\" @This Isn't an Expense — It's",
+      "changes": 3,
+      "from": 0,
+      "to": 15480,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: scale(0.6, 0.6); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.text-el \"Close More Cases Proven\" @This Isn't an Expense — It's",
+      "changes": 4,
+      "from": 0,
+      "to": 15600,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(20px, 0px); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.list-el.border-blocks-horiz.relative \"05. Always On Angie ans\" @This Isn't an Expense — It's",
+      "changes": 4,
+      "from": 0,
+      "to": 15480,
+      "kind": "TRIGGER",
+      "first": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(-101%, 0%);",
+      "last": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+    },
+    {
+      "label": "div.box-number.shrink-0.font-helvetica-bold \"05.\" @This Isn't an Expense — It's",
+      "changes": 4,
+      "from": 0,
+      "to": 15600,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: scale(0.6, 0.6); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.text-el \"Always On Angie answers\" @This Isn't an Expense — It's",
+      "changes": 3,
+      "from": 0,
+      "to": 15600,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(20px, 0px); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.list-el.border-blocks-horiz.relative \"06. Improve client under\" @This Isn't an Expense — It's",
+      "changes": 4,
+      "from": 0,
+      "to": 15480,
+      "kind": "TRIGGER",
+      "first": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(-101%, 0%);",
+      "last": "opacity: 1; translate: none; rotate: none; scale: none; transform: translate(0px, 0px);"
+    },
+    {
+      "label": "div.box-number.shrink-0.font-helvetica-bold \"06.\" @This Isn't an Expense — It's",
+      "changes": 3,
+      "from": 0,
+      "to": 15600,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: scale(0.6, 0.6); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.text-el \"Improve client understan\" @This Isn't an Expense — It's",
+      "changes": 4,
+      "from": 0,
+      "to": 15720,
+      "kind": "TRIGGER",
+      "first": "translate: none; rotate: none; scale: none; transform: translate(20px, 0px); opacity: 0;",
+      "last": "translate: none; rotate: none; scale: none; transform: translate(0px, 0px); opacity: 1;"
+    },
+    {
+      "label": "div.bg-image-full.absolute.top-0 \"\" @If you're talking to anyone ",
+      "changes": 4,
+      "from": 0,
+      "to": 16440,
+      "kind": "TRIGGER",
+      "first": "opacity: 0;",
+      "last": "opacity: 1;"
+    },
+    {
+      "label": "div.inner-wrap.max-w-content-lg.mx-auto \"If you're talking to any\" @If you're talking to anyone ",
+      "changes": 3,
+      "from": 0,
+      "to": 16320,
+      "kind": "TRIGGER",
+      "first": "opacity: 0;",
+      "last": "opacity: 1;"
+    },
+    {
+      "label": "span. \"client advisor\" @Your AI powered client advis",
+      "changes": 10,
+      "from": 8880,
+      "to": 9960,
+      "kind": "SCRUB",
+      "first": "opacity: 0.9586;",
+      "last": "opacity: 1;"
+    }
+  ]
+}

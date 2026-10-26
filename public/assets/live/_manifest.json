@@ -1,0 +1,206 @@
+{
+  "logo": {
+    "src": "/assets/live/logo.webp",
+    "width": 2000,
+    "height": 449,
+    "alt": "WebIndia Inc",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2023/11/WebIndia-logo-final.webp",
+    "bytes": 64326
+  },
+  "logoWhite": {
+    "src": "/assets/live/logo-white.webp",
+    "width": 946,
+    "height": 212,
+    "alt": "WebIndia Inc",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2022/12/Asset-2-8.png",
+    "bytes": 16716
+  },
+  "premierPartner": {
+    "src": "/assets/live/google-premier-partner.svg",
+    "width": 152,
+    "height": 146,
+    "alt": "Google Premier Partner badge",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2026/03/PremierPartner-CMYK-Clickable.svg",
+    "bytes": 12130
+  },
+  "capability.googleSearch": {
+    "src": "/assets/live/capability-google-search.svg",
+    "width": 24,
+    "height": 24,
+    "alt": "Google Search icon",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/05/Google-Search.svg",
+    "bytes": 2941
+  },
+  "capability.googleAnalytics": {
+    "src": "/assets/live/capability-google-analytics.svg",
+    "width": 24,
+    "height": 24,
+    "alt": "Google Analytics icon",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/05/Google-Analytics.svg",
+    "bytes": 811
+  },
+  "capability.googleShopping": {
+    "src": "/assets/live/capability-google-shopping.svg",
+    "width": 24,
+    "height": 24,
+    "alt": "Google Shopping icon",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/05/Google-Shoping.svg",
+    "bytes": 2538
+  },
+  "capability.displayAds": {
+    "src": "/assets/live/capability-display-ads.svg",
+    "width": 24,
+    "height": 24,
+    "alt": "Display Ads icon",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/05/Display-Ads.svg",
+    "bytes": 1001
+  },
+  "capability.mobileCampaign": {
+    "src": "/assets/live/capability-mobile-campaign.svg",
+    "width": 24,
+    "height": 24,
+    "alt": "Mobile Campaign icon",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/05/Mobile-Campaign.svg",
+    "bytes": 3508
+  },
+  "capability.videoAdvertising": {
+    "src": "/assets/live/capability-video-advertising.svg",
+    "width": 24,
+    "height": 24,
+    "alt": "Video Advertising icon",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/05/Video-Advertising.svg",
+    "bytes": 949
+  },
+  "review.upwork": {
+    "src": "/assets/live/review-upwork.webp",
+    "width": 150,
+    "height": 40,
+    "alt": "Upwork logo",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/03/Upwork-Icon.png",
+    "bytes": 1554
+  },
+  "review.google": {
+    "src": "/assets/live/review-google.webp",
+    "width": 148,
+    "height": 51,
+    "alt": "Google logo",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/03/Google-logo.png",
+    "bytes": 1554
+  },
+  "review.trustpilot": {
+    "src": "/assets/live/review-trustpilot.webp",
+    "width": 150,
+    "height": 40,
+    "alt": "Trustpilot logo",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/09/Trustpilot-logo.png",
+    "bytes": 1696
+  },
+  "team": {
+    "src": "/assets/live/team.webp",
+    "width": 1284,
+    "height": 648,
+    "alt": "Webindia Anniversary With the Founders and Partners",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/03/Mask-group-3-1.png",
+    "bytes": 154566,
+    "avif": "/assets/live/team.avif",
+    "avifBytes": 103878,
+    "blurDataURL": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAQCdASoQAAgAAsBMJYwCdAYuRD2s3EAA/uABodhsc3kqZDoANB+EjyrK+iwlB/1K4eFtCPAOIkFs/ebmU+Oe3+SUF9tMPaNBqEG5DXA2UqA+WbPex4AA"
+  },
+  "testimonial.keira": {
+    "src": "/assets/live/testimonial-keira.webp",
+    "width": 73,
+    "height": 73,
+    "alt": "Keira Geary Marcinowski",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/03/1.png",
+    "bytes": 2406,
+    "avif": "/assets/live/testimonial-keira.avif",
+    "avifBytes": 2016,
+    "blurDataURL": "data:image/webp;base64,UklGRgQBAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSFkAAAABcBXbbtw8fUd4HGNVRCYTFDuRlz2tRCEiJgCAVF/IxVvBV53XT3oDQIcr2CvEr7BJZYzFr6RtmfHIcM/sS2a2jBXGWMRjnUCHSK8A1PmL1uArtZvJ2YoAAABWUDgghAAAADADAJ0BKhAAEAACwEwlsAJ0fwYm3ZFhEdG1rBmgXD93LVAA/uN2qdGbiKpwNScGNW3uw5CZFNI9NsmmGki17MrhF+WMoeLYAnXIt/c6onKeV0POMCu0jQTH4Iu0J/Lk0xrS2lftLLUREzvIFPo5VK/7hoER3Y/nxHhZY4rywvRksmAAAA=="
+  },
+  "testimonial.tara": {
+    "src": "/assets/live/testimonial-tara.webp",
+    "width": 73,
+    "height": 73,
+    "alt": "Tara",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/03/Tara-Horn.png",
+    "bytes": 2538,
+    "avif": "/assets/live/testimonial-tara.avif",
+    "avifBytes": 2170,
+    "blurDataURL": "data:image/webp;base64,UklGRg4BAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSFgAAAABYBVJspO9b04PPKvRCyAjKVlyuLMQERMAQEJZyLV0grdWnp8sCkDH0zgqpJzmLIE2tuV0xsUz7R66ttkzZ0/qaGMrxZYEOlh6BaBl+2Ju8JaQJ3JKQQAAVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdGaA20HP/2SkRD5Y/WXN16gA/rdcHP3G6vysAOGbDbOixm3LuRoiTlrD5nFHlZ7zPwHJptEy1fpbuoIws5hgUCXzTufmF6qj5tmaXLTPKlbqoGNUvbNYgJa6ykI459GKBCnJ+c5OXOqpSCpVDJB5TCZYuW/KOpUt2ddYce1wAAA="
+  },
+  "testimonial.tobias": {
+    "src": "/assets/live/testimonial-tobias.webp",
+    "width": 73,
+    "height": 73,
+    "alt": "Tobias",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/03/2.png",
+    "bytes": 2798,
+    "avif": "/assets/live/testimonial-tobias.avif",
+    "avifBytes": 2436,
+    "blurDataURL": "data:image/webp;base64,UklGRiYBAABXRUJQVlA4WAoAAAAQAAAADwAADwAAQUxQSF8AAAABcFDbbtt8EYgI2cHqgaUDRwYKKVKnRCEiJgAA1bapbq0SvnmK/5TBAPhp/tceDJrmQRtUxcNShsWsnZ7croxq5toyW8u0qjEpNC00CPyM3BgAT/0lfcE3rWNX3VohAABWUDggoAAAAPACAJ0BKhAAEAACwEwlsAJ0R//ZIhKkfGuymwL2HMRAAP7I1wZPo1UYcmS+V9JYRO3g+tOmucKVcICd+QclyKYvp/vBcN9uhDLDmlpyK4BlJWT4sJf/Iw1kzUgibVtUCKYw4HgJnxrShbmcjnkYF3FZHS9N7W1/WyMULdXurSrjwleBp5aYhHTfxn+N+uMliIe+V1wg2jvXJRfeFpO4AAA="
+  },
+  "featured.premierBadge": {
+    "src": "/assets/live/featured-google-premier-badge.webp",
+    "width": 634,
+    "height": 607,
+    "alt": "Google Premier Partner badge",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2024/04/PremierBadge.png",
+    "bytes": 10038
+  },
+  "featured.trustpilot": {
+    "src": "/assets/live/featured-trustpilot.webp",
+    "width": 211,
+    "height": 91,
+    "alt": "Trustpilot logo",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2022/12/trustpilot-peugi7n1gxuxyag47htlc8ohs2wm0xtt78rfaupeuy-1-1.png",
+    "bytes": 5924
+  },
+  "featured.designrush": {
+    "src": "/assets/live/featured-designrush.webp",
+    "width": 382,
+    "height": 99,
+    "alt": "DesignRush Verified Agency badge",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2025/01/Verified-Agency-v2.png",
+    "bytes": 7036
+  },
+  "featured.apnews": {
+    "src": "/assets/live/featured-apnews.webp",
+    "width": 70,
+    "height": 80,
+    "alt": "AP News logo",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2025/01/aplogo-1.png",
+    "bytes": 850
+  },
+  "featured.influencerMarketingHub": {
+    "src": "/assets/live/featured-influencer-marketing-hub.webp",
+    "width": 219,
+    "height": 53,
+    "alt": "Influencer Marketing Hub logo",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2025/01/Logo_IMH-1.png",
+    "bytes": 1808
+  },
+  "featured.bestSeo": {
+    "src": "/assets/live/featured-best-seo.webp",
+    "width": 129,
+    "height": 91,
+    "alt": "Best SEO Companies badge",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2022/12/bestSEO-peugj98l2baeuoxi3y2o3z6xjhraktz2oeuuhx5ny2-1-1.png",
+    "bytes": 3814
+  },
+  "featured.bingAds": {
+    "src": "/assets/live/featured-bing-ads.webp",
+    "width": 278,
+    "height": 65,
+    "alt": "Microsoft Bing Ads logo",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2022/12/bing-peugj0s1csyty79shcf0zjbs70wznk1hn8zh6fi7i2-1-1.png",
+    "bytes": 5720
+  },
+  "featured.clutch": {
+    "src": "/assets/live/featured-clutch.webp",
+    "width": 228,
+    "height": 91,
+    "alt": "Clutch logo",
+    "sourceUrl": "https://cdn.webindiainc.com/wp-content/uploads/2022/12/clutch-peugit9bu4ojdbkpp960fl83fxy1xz7my7rlc7tcvu-1-1.png",
+    "bytes": 5646
+  }
+}

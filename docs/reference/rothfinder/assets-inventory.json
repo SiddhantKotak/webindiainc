@@ -1,0 +1,677 @@
+{
+  "imgs": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI5MDIiIGhlaWdodD0iMjAwMCI+PC9zdmc+",
+      "natural": "902x2000",
+      "shown": "0x0",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLFg0VDg4LDQ0RDh0NFhENFyIZGBYTFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHA4QHDsoFhwvLy8vLzUvOy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABkACwMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAABAgUGB//EACIQAAEDAQkBAAAAAAAAAAAAAAEAAgQREhMUFSEyM0FiA//EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAD/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEC/9oADAMBAAIRAxEAPwDHGMtJrkqay0AaNS4Lygdlsa1Ro/xeypoiYsevSWFxlF24qYZ6X//Z",
+      "natural": "11x25",
+      "shown": "0x0",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMzQwIiBoZWlnaHQ9IjM1NDgiPjwvc3ZnPg==",
+      "natural": "3340x3548",
+      "shown": "1321x1403",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "Real results from financial professional",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgWDw0VEhgVEA0PFxcLDQ0NFxgZGCIVFhUmHyslGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHA0NHDUlFh01Ly8vLy81Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABkAFwMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAEBQABBv/EACEQAAICAQIHAAAAAAAAAAAAAAABAgMEBSIREhMVITIz/8QAFgEAAwAAAAAAAAAAAAAAAAAAAgME/8QAGBEBAQEBAQAAAAAAAAAAAAAAAQASAhH/2gAMAwEAAhEDEQA/AAXkt2DLCtUNzEkMqmVgfHLqjW/JJ61aFM7U0rmkQAj0Mi6TciDRZGSyVOr1xfHmCe8xnB8JGWiEUerDyS9M4xdWatluKE+P9WUEckL03//Z",
+      "natural": "23x25",
+      "shown": "1453x1579",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "Real results from financial professional",
+      "parentCls": ""
+    },
+    {
+      "src": "https://www.datocms-assets.com/217501/1781633361-bg-product-2x.avif?dpr=0.5&fm=webp",
+      "natural": "1440x1529",
+      "shown": "1321x1403",
+      "kb": "795KB",
+      "alt": "Person Walking",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "Real results from financial professional",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAwIiBoZWlnaHQ9IjE3OTYiPjwvc3ZnPg==",
+      "natural": "2000x1796",
+      "shown": "102x92",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Real results from financial professional",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgVEgoXDh4QEBUNDhENDg0VFxwZGBYfFiEdHysjJh0oKRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHA8OHS8cIhw7Ly8vLy8vNS8vLy8vMi81Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABYAGAMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAGAAcBBP/EACAQAAAGAgIDAAAAAAAAAAAAAAABAgMEEQVBBlESISL/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAwL/xAAcEQABBAMBAAAAAAAAAAAAAAAAAQIDMhIiMRH/2gAMAwEAAhEDEQA/AM8goJbpWHWJiMuxjSZ6AnGt26RWG2LjLQ3d+qGJnbCIUTEG8kxzLE1R3sQ9XKGCckH9DgXG7UK9E9D0Kc4iaki7GkQZKjx/luh0QFNYvFwCZ2Y4qaor2IQgxlQzun//2Q==",
+      "natural": "24x22",
+      "shown": "113x103",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Real results from financial professional",
+      "parentCls": ""
+    },
+    {
+      "src": "https://www.datocms-assets.com/217501/1782826362-1771375086-b3c4020d-8246-40e0-a0f3-0d6799c303bb.webp?dpr=0.75&fm=webp",
+      "natural": "1440x1293",
+      "shown": "102x92",
+      "kb": "55KB",
+      "alt": "Lindsey T.",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Real results from financial professional",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTciIGhlaWdodD0iMjI4Ij48L3N2Zz4=",
+      "natural": "257x228",
+      "shown": "102x91",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Real results from financial professional",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoPCAgQDxALDhgQCQ4NDREKFhEYFx8ZGBYfFiEaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHA0QHDscFhw1Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABYAGAMBIgACEQEDEQH/xAAYAAEBAAMAAAAAAAAAAAAAAAAABwEFBv/EACMQAAEDAgYDAQAAAAAAAAAAAAIAAQQDEQUGEkFCUSJxciH/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgT/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEC/9oADAMBAAIRAxEAPwCd0YuumN+1RsKwumWWyu/FT6NJFwH2qBErkGXHs/FSnUnOZcQeE0hmH+7oshKEpR6i3RUHUbm2mDwILdqmRA1ZWf5RFtQi5XKcEzjLqWfdERWBErt//9k=",
+      "natural": "24x22",
+      "shown": "113x103",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Real results from financial professional",
+      "parentCls": ""
+    },
+    {
+      "src": "https://www.datocms-assets.com/217501/1781631916-fpo-quote-2x.jpg?fm=webp",
+      "natural": "257x228",
+      "shown": "102x91",
+      "kb": "11KB",
+      "alt": "Jon F",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Real results from financial professional",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzM1IiBoZWlnaHQ9IjExNzgiPjwvc3ZnPg==",
+      "natural": "1335x1178",
+      "shown": "102x90",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Real results from financial professional",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLEhULGg8XDRYNFxIYDQ0NFxcZGCIVFiEdHyslHR0oHSEiJDUlKC0vMjIyGSU4PTcwPCsxMi8BCgsLDg0OHA0NHC8cFhwvNS8vLy81Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABYAGAMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAABQEGBwT/xAAeEAABAwQDAAAAAAAAAAAAAAABAAMFAgQREgYVIf/EABcBAQEBAQAAAAAAAAAAAAAAAAMBAgD/xAAYEQEBAQEBAAAAAAAAAAAAAAABAAIRIf/aAAwDAQACEQMRAD8AOPylbUEQUx7E9Ya8qlWtw/RC+ApozW+5Ak4K5W3nJy0GAmBXF65Qqdxt18WRHqlILGh2U2+vR51C62H8QZGqEK8rl8mvGahVZnxQhCUINPt//9k=",
+      "natural": "24x22",
+      "shown": "113x103",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Real results from financial professional",
+      "parentCls": ""
+    },
+    {
+      "src": "https://www.datocms-assets.com/217501/1782997693-4f7d6d44-ab80-48ca-b84c-938e68bdf5ef.png?fm=webp",
+      "natural": "1335x1178",
+      "shown": "102x90",
+      "kb": "86KB",
+      "alt": "Nate T",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Real results from financial professional",
+      "parentCls": ""
+    },
+    {
+      "src": "/angie-photo@2x.png",
+      "natural": "518x471",
+      "shown": "160x146",
+      "kb": "104KB",
+      "alt": "Angie",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "Meet Angie",
+      "parentCls": "angie-photo s:mt-78 s:w-[20rem] relative z-0 mx-auto mt-30 w"
+    },
+    {
+      "src": "/angie-photo@2x.png",
+      "natural": "518x471",
+      "shown": "32x29",
+      "kb": "104KB",
+      "alt": "Angie",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "Meet Angie",
+      "parentCls": "angie-photo s:mt-78 s:w-[20rem] relative z-0 mx-auto mt-30 w"
+    },
+    {
+      "src": "/arrow.svg",
+      "natural": "15x20",
+      "shown": "12x16",
+      "kb": "1KB",
+      "alt": "Arrow Down",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "RothFinder shifts client conversations.",
+      "parentCls": "square-btn s:size-18 bg-lime hover:bg-periwinkle shadow-btn-"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4ODciIGhlaWdodD0iMTIyMyI+PC9zdmc+",
+      "natural": "887x1223",
+      "shown": "352x486",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "RothFinder shifts client conversations.",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLERELDiIaDQ8VFh4ODQ0YFxYZGBYVFhUdHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OFRANHC8cFhwvLy8vLy81Ly8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAEQMBIgACEQEDEQH/xAAZAAACAwEAAAAAAAAAAAAAAAAABgEDBQT/xAAiEAACAgECBwEAAAAAAAAAAAAAAgEEAwVSERITFBUxUQb/xAAXAQEBAQEAAAAAAAAAAAAAAAACBQQD/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEQMSE//aAAwDAQACEQMRAD8A0qemo1WeLQVZauLGkxDQKmP9JZWvKw0nMmtWMrTzOT5Y2dlIaOlj3QSLXkcm8AcmLYUV1B/RLWM0LxWSQKbSMllXd2fsgAApCs//2Q==",
+      "natural": "17x24",
+      "shown": "387x546",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "RothFinder shifts client conversations.",
+      "parentCls": ""
+    },
+    {
+      "src": "https://www.datocms-assets.com/217501/1781633279-transform-slide1-2x.avif?fm=webp",
+      "natural": "887x1223",
+      "shown": "352x486",
+      "kb": "174KB",
+      "alt": "Garden",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "RothFinder shifts client conversations.",
+      "parentCls": ""
+    },
+    {
+      "src": "/arrow.svg",
+      "natural": "15x20",
+      "shown": "12x16",
+      "kb": "1KB",
+      "alt": "Arrow Down",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "RothFinder shifts client conversations.",
+      "parentCls": "square-btn s:size-18 bg-lime hover:bg-periwinkle shadow-btn-"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4ODciIGhlaWdodD0iMTIyMyI+PC9zdmc+",
+      "natural": "887x1223",
+      "shown": "369x300",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "RothFinder shifts client conversations.",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLEhELDQwNDQ0NDhgNDRENFxYZGBYfFhUdKysjHR0oKRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHA8NHC8cGigvNS8vLy81NS8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAEQMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAAABgQDAv/EACIQAAEDAgYDAAAAAAAAAAAAAAACAwQBEQUGITJSYRIUFf/EABYBAQEBAAAAAAAAAAAAAAAAAAQBAv/EABgRAAMBAQAAAAAAAAAAAAAAAAABEhEC/9oADAMBAAIRAxEAPwD1hzbrjt1HPEm/GRTUnY+a1J2mKTmF56RetQC4Y20U9uwTP23OQNQy2iSjSFJVa50kyF01oAOlAdZn9p3kACF1n//Z",
+      "natural": "17x24",
+      "shown": "406x573",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "RothFinder shifts client conversations.",
+      "parentCls": ""
+    },
+    {
+      "src": "https://www.datocms-assets.com/217501/1781633607-transform-slide2-2x.avif?fm=webp",
+      "natural": "887x1223",
+      "shown": "369x300",
+      "kb": "179KB",
+      "alt": "Hall",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "RothFinder shifts client conversations.",
+      "parentCls": ""
+    },
+    {
+      "src": "/arrow.svg",
+      "natural": "15x20",
+      "shown": "12x16",
+      "kb": "1KB",
+      "alt": "Arrow Down",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "RothFinder shifts client conversations.",
+      "parentCls": "square-btn s:size-18 bg-lime hover:bg-periwinkle shadow-btn-"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4ODciIGhlaWdodD0iMTIyMyI+PC9zdmc+",
+      "natural": "887x1223",
+      "shown": "369x300",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "RothFinder shifts client conversations.",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLFQoUDhgQDhANDhkVIhskHh8ZGBYfFiEdHysjHR0oHRUiJDUlKC0vMjIyGSU4PTcwPCsxMi8BCgsLDg0OHQ0PHS8eFh0vLy8vLy81Ly8vLy8vMjUvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgAEQMBIgACEQEDEQH/xAAbAAACAQUAAAAAAAAAAAAAAAAABwYBAgMEBf/EACgQAAEDAQQLAQAAAAAAAAAAAAABAgQDBhESUxMUFSEiIzFRcZGhBf/EABYBAQEBAAAAAAAAAAAAAAAAAAQDAv/EABsRAAICAwEAAAAAAAAAAAAAAAABAxESEyEC/9oADAMBAAIRAxEAPwCcw3NWircSHLkRaKSlc96dRfRbayGVcLn/AEs/QtLJkVOXV3+QniKmOc4x9FEzEAVu15+avsC+BjeRN1CQ+TwqYn1JNGUiK5b7yoFkug2zc1yT3AAKGLP/2Q==",
+      "natural": "17x24",
+      "shown": "406x573",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "RothFinder shifts client conversations.",
+      "parentCls": ""
+    },
+    {
+      "src": "https://www.datocms-assets.com/217501/1781633617-transform-slide3-2x.avif?fm=webp",
+      "natural": "887x1223",
+      "shown": "369x300",
+      "kb": "130KB",
+      "alt": "Lighthouse",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "RothFinder shifts client conversations.",
+      "parentCls": ""
+    },
+    {
+      "src": "/icon-clock.svg",
+      "natural": "67x67",
+      "shown": "53x53",
+      "kb": "1KB",
+      "alt": "clock",
+      "loading": "auto",
+      "fit": "contain",
+      "section": "Confidently show clients the long-term i",
+      "parentCls": "s:text-center s:pt-30 s:pb-17 max-s:flex max-s:gap-4 flex-1 "
+    },
+    {
+      "src": "/icon-coins.svg",
+      "natural": "107x64",
+      "shown": "88x53",
+      "kb": "2KB",
+      "alt": "coins",
+      "loading": "auto",
+      "fit": "contain",
+      "section": "Confidently show clients the long-term i",
+      "parentCls": "s:text-center s:pt-30 s:pb-17 max-s:flex max-s:gap-4 flex-1 "
+    },
+    {
+      "src": "/icon-money.svg",
+      "natural": "62x66",
+      "shown": "50x53",
+      "kb": "1KB",
+      "alt": "money",
+      "loading": "auto",
+      "fit": "contain",
+      "section": "Confidently show clients the long-term i",
+      "parentCls": "s:text-center s:pt-30 s:pb-17 max-s:flex max-s:gap-4 flex-1 "
+    },
+    {
+      "src": "/icon-briefcase.svg",
+      "natural": "164x67",
+      "shown": "129x53",
+      "kb": "2KB",
+      "alt": "briefcase",
+      "loading": "auto",
+      "fit": "contain",
+      "section": "Confidently show clients the long-term i",
+      "parentCls": "row max-s:px-0! s:pt-[5rem] s:pb-28 s:py-[4.7rem] max-s:flex"
+    },
+    {
+      "src": "/icon-graph.svg",
+      "natural": "127x64",
+      "shown": "105x53",
+      "kb": "2KB",
+      "alt": "graph",
+      "loading": "auto",
+      "fit": "contain",
+      "section": "Confidently show clients the long-term i",
+      "parentCls": "s:text-center s:py-[5rem] max-s:flex max-s:gap-4 flex-1 py-8"
+    },
+    {
+      "src": "/icon-target.svg",
+      "natural": "136x66",
+      "shown": "109x53",
+      "kb": "2KB",
+      "alt": "target",
+      "loading": "auto",
+      "fit": "contain",
+      "section": "Confidently show clients the long-term i",
+      "parentCls": "s:text-center s:py-[5rem] max-s:flex max-s:gap-4 relative fl"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MzgiIGhlaWdodD0iMTI0MiI+PC9zdmc+",
+      "natural": "738x1242",
+      "shown": "0x0",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Your best return isn't in the market. It",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgLChALDhgQDggNDhEgDQ4NFx8ZGBYfFhUdHysjGh0oHRUWJTUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OGg4OHC8oFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABgADgMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAGBwAEBf/EABwQAAEFAQEBAAAAAAAAAAAAAAIAAQMEBREUEv/EABUBAQEAAAAAAAAAAAAAAAAAAAIA/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEDESH/2gAMAwEAAhEDEQA/AF/ZySaTnFSsZXyTdZMCegPo4QrC24ggnZmZSktCoI9/SirX2EWQru2xmmElFEY1hM//2Q==",
+      "natural": "14x24",
+      "shown": "0x0",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Your best return isn't in the market. It",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMzM5IiBoZWlnaHQ9IjEyNDIiPjwvc3ZnPg==",
+      "natural": "3339x1242",
+      "shown": "1069x393",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Your best return isn't in the market. It",
+      "parentCls": ""
+    },
+    {
+      "src": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoICAgVFgoLDhgQDg4NDhYNDREYGB8ZGBYTFhUaHysjHR0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLDg0OHBAQHDscFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAAkAGAMBIgACEQEDEQH/xAAaAAABBQEAAAAAAAAAAAAAAAAFAQIDBgcA/8QAHhAAAgICAgMAAAAAAAAAAAAAAQIABQMENXETMTT/xAAWAQEBAQAAAAAAAAAAAAAAAAADAgD/xAAXEQEBAQEAAAAAAAAAAAAAAAABAEER/9oADAMBAAIRAxEAPwDOaxz4Q0J57NlwKggus+aPz+17kW2teps7BrQQJ0lr+JXqLBZxeX//2Q==",
+      "natural": "24x9",
+      "shown": "1176x441",
+      "kb": "?",
+      "alt": "",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Your best return isn't in the market. It",
+      "parentCls": ""
+    },
+    {
+      "src": "https://www.datocms-assets.com/217501/1781634108-cta-bg-2x.avif?dpr=0.5&fm=webp",
+      "natural": "1440x535",
+      "shown": "1069x393",
+      "kb": "234KB",
+      "alt": "Business People",
+      "loading": "auto",
+      "fit": "cover",
+      "section": "Your best return isn't in the market. It",
+      "parentCls": ""
+    },
+    {
+      "src": "https://www.datocms-assets.com/217501/1782415499-strategy-engine.png",
+      "natural": "141x100",
+      "shown": "32x23",
+      "kb": "9KB",
+      "alt": "feature icon",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "Everything you need in one place.",
+      "parentCls": "feature-item-icon border-block grid w-[8.6rem] shrink-0 plac"
+    },
+    {
+      "src": "https://www.datocms-assets.com/217501/1782415511-projections.png",
+      "natural": "135x87",
+      "shown": "32x21",
+      "kb": "4KB",
+      "alt": "feature icon",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "Everything you need in one place.",
+      "parentCls": "feature-item-icon border-block grid w-[8.6rem] shrink-0 plac"
+    },
+    {
+      "src": "https://www.datocms-assets.com/217501/1782415524-comparison.png",
+      "natural": "138x89",
+      "shown": "32x21",
+      "kb": "6KB",
+      "alt": "feature icon",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "Everything you need in one place.",
+      "parentCls": "feature-item-icon border-block grid w-[8.6rem] shrink-0 plac"
+    },
+    {
+      "src": "https://www.datocms-assets.com/217501/1782755196-angie-icon.png",
+      "natural": "108x108",
+      "shown": "32x32",
+      "kb": "6KB",
+      "alt": "feature icon",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "Everything you need in one place.",
+      "parentCls": "feature-item-icon border-block grid w-[8.6rem] shrink-0 plac"
+    },
+    {
+      "src": "https://www.datocms-assets.com/217501/1782755411-client-experience.png",
+      "natural": "122x86",
+      "shown": "32x23",
+      "kb": "6KB",
+      "alt": "feature icon",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "Everything you need in one place.",
+      "parentCls": "feature-item-icon border-block grid w-[8.6rem] shrink-0 plac"
+    },
+    {
+      "src": "/logo-white.svg",
+      "natural": "300x59",
+      "shown": "182x36",
+      "kb": "1KB",
+      "alt": "",
+      "loading": "auto",
+      "fit": "fill",
+      "section": "If you're talking to anyone with retirem",
+      "parentCls": "logo-wrap s:flex-row s:items-center s:gap-6 flex flex-col ga"
+    }
+  ],
+  "bgs": [
+    {
+      "bg": "linear-gradient(to right in oklab, rgb(0, 0, 0) 0%, rgb(0, 0, 0) 100%)",
+      "cls": "cta-btn s:text-body-xs text-body-sm-mob inline-block text-li",
+      "section": ""
+    },
+    {
+      "bg": "linear-gradient(rgba(0, 0, 0, 0) 0.3%, rgba(0, 0, 0, 0.7) 41.99%, rgb(0, 0, 0) 62.93%, rgb(0, 0, 0) 93.58%)",
+      "cls": "bg-fade-bottom s:hidden absolute bottom-0 left-0 block h-360",
+      "section": "Real results from financial professional"
+    },
+    {
+      "bg": "linear-gradient(rgb(251, 247, 239), rgb(251, 247, 239)), url(\"https://rothfinder.com/line-scribble.svg\")",
+      "cls": "underline-wrap whitespace-normal",
+      "section": "Your AI powered client advisor available"
+    },
+    {
+      "bg": "url(\"https://rothfinder.com/calc-scribble.svg\")",
+      "cls": "slider-wrap bg-forest s:bg-center relative mt-5 h-[5.2rem] w",
+      "section": "Confidently show clients the long-term i"
+    },
+    {
+      "bg": "url(\"https://rothfinder.com/calc-scribble.svg\")",
+      "cls": "slider-wrap bg-forest s:bg-center relative mt-5 h-[5.2rem] w",
+      "section": "Confidently show clients the long-term i"
+    },
+    {
+      "bg": "url(\"https://rothfinder.com/footer-bg@2x.avif\")",
+      "cls": "bg-image s:bg-[url('/footer-bg@2x.avif')] absolute top-0 lef",
+      "section": "If you're talking to anyone with retirem"
+    },
+    {
+      "bg": "url(\"https://rothfinder.com/footer-bg@2x.avif\")",
+      "cls": "bg-image-full s:block absolute top-0 left-0 hidden h-full w-",
+      "section": "If you're talking to anyone with retirem"
+    }
+  ],
+  "svgs": [
+    {
+      "w": 182,
+      "h": 35,
+      "paths": 12,
+      "stroke": "none",
+      "dash": "none",
+      "cls": "s:w-[22.8rem] s:left-0 max-s:translate-x-[-.2rem] absolute t",
+      "section": "HEADER"
+    },
+    {
+      "w": 210,
+      "h": 40,
+      "paths": 12,
+      "stroke": "none",
+      "dash": "none",
+      "cls": "s:w-[22.8rem] s:left-0 max-s:translate-x-[-.2rem] absolute t",
+      "section": "turns complex Rothconversion strategies "
+    },
+    {
+      "w": 1038,
+      "h": 572,
+      "paths": 311,
+      "stroke": "none",
+      "dash": "none",
+      "cls": "",
+      "section": "Real results from financial professional"
+    }
+  ],
+  "canv": [
+    {
+      "wh": "1440x1120",
+      "section": "",
+      "parent": "abs-center mt-35 aspect-[1.285] w-screen"
+    },
+    {
+      "wh": "575x54",
+      "section": "",
+      "parent": "bg-periwinkle border-block shadow-btn-sm s:pt-5 rounded-sm pt-3"
+    },
+    {
+      "wh": "1440x448",
+      "section": "turns complex Rothconversion strategies ",
+      "parent": "fill-screen s:aspect-[3.21] s:top-block-y-md absolute! top-5 aspect-[1"
+    },
+    {
+      "wh": "351x358",
+      "section": "From first conversation to closed case.",
+      "parent": "s:shrink-0 max-s:w-full"
+    },
+    {
+      "wh": "351x358",
+      "section": "From first conversation to closed case.",
+      "parent": "s:shrink-0 max-s:w-full"
+    },
+    {
+      "wh": "351x358",
+      "section": "From first conversation to closed case.",
+      "parent": "s:shrink-0 max-s:w-full"
+    },
+    {
+      "wh": "351x358",
+      "section": "From first conversation to closed case.",
+      "parent": "s:shrink-0 max-s:w-full"
+    },
+    {
+      "wh": "1440x440",
+      "section": "Meet Angie",
+      "parent": "pointer-events-none absolute -top-115 left-0 z-1 aspect-[3.27] w-full"
+    },
+    {
+      "wh": "1440x631",
+      "section": "Meet Angie",
+      "parent": "relative aspect-[2.28]"
+    },
+    {
+      "wh": "672x928",
+      "section": "Know What Your Clients Are Thinking — Be",
+      "parent": "relative aspect-[.724]"
+    },
+    {
+      "wh": "1440x2117",
+      "section": "Everything you need in one place.",
+      "parent": "relative aspect-[.68]"
+    }
+  ],
+  "media": [
+    "/angie-photo@2x.png 104KB",
+    "/arrow.svg 1KB",
+    "/calc-scribble.svg 1KB",
+    "/footer-bg@2x.avif 302KB",
+    "/icon-briefcase.svg 2KB",
+    "/icon-clock.svg 1KB",
+    "/icon-coins.svg 2KB",
+    "/icon-graph.svg 2KB",
+    "/icon-money.svg 1KB",
+    "/icon-target.svg 2KB",
+    "/line-scribble.svg 0KB",
+    "/logo-paths.svg 1KB",
+    "/logo-white.svg 1KB",
+    "/rive/hero-graph.riv 7KB",
+    "/rive/hero-graph.riv 7KB",
+    "/rive/icons.riv 53KB",
+    "/rive/icons.riv 53KB",
+    "/rive/icons.riv 53KB",
+    "/rive/icons.riv 53KB",
+    "/rive/inner-scrolls.riv 1165KB",
+    "/rive/inner-scrolls.riv 1165KB",
+    "/rive/inner-scrolls.riv 1165KB",
+    "/rive/inner-scrolls.riv 1165KB",
+    "/rive/inner-scrolls.riv 1165KB",
+    "/rive/rothfinder-home.riv 285KB",
+    "/rive/rothfinder-home.riv 285KB",
+    "/video/RothFinder%20-%20Lottie%20-%2001.json 686KB",
+    "/video/RothFinder%20-%20Lottie%20-%2001.json 686KB",
+    "/video/RothFinder%20-%20Lottie%20-%2002.json 665KB",
+    "/video/RothFinder%20-%20Lottie%20-%2003.json 1325KB",
+    "/video/RothFinder%20-%20Lottie%20-%2004.json 1291KB",
+    "https://www.datocms-assets.com/217501/1781631916-fpo-quote-2x.jpg?fm=webp 11KB",
+    "https://www.datocms-assets.com/217501/1781633279-transform-slide1-2x.avif?fm=webp 174KB",
+    "https://www.datocms-assets.com/217501/1781633361-bg-product-2x.avif?dpr=0.5&fm=webp 795KB",
+    "https://www.datocms-assets.com/217501/1781633607-transform-slide2-2x.avif?fm=webp 179KB",
+    "https://www.datocms-assets.com/217501/1781633617-transform-slide3-2x.avif?fm=webp 130KB",
+    "https://www.datocms-assets.com/217501/1781634108-cta-bg-2x.avif?dpr=0.5&fm=webp 234KB",
+    "https://www.datocms-assets.com/217501/1782184090-favicon.png?auto=format&h=16&w=16 4KB",
+    "https://www.datocms-assets.com/217501/1782184090-favicon.png?auto=format&h=32&w=32 4KB",
+    "https://www.datocms-assets.com/217501/1782184090-favicon.png?auto=format&h=96&w=96 4KB",
+    "https://www.datocms-assets.com/217501/1782415499-strategy-engine.png 9KB",
+    "https://www.datocms-assets.com/217501/1782415511-projections.png 4KB",
+    "https://www.datocms-assets.com/217501/1782415524-comparison.png 6KB",
+    "https://www.datocms-assets.com/217501/1782755196-angie-icon.png 6KB",
+    "https://www.datocms-assets.com/217501/1782755411-client-experience.png 6KB",
+    "https://www.datocms-assets.com/217501/1782826362-1771375086-b3c4020d-8246-40e0-a0f3-0d6799 55KB",
+    "https://www.datocms-assets.com/217501/1782997693-4f7d6d44-ab80-48ca-b84c-938e68bdf5ef.png? 86KB"
+  ],
+  "fontsFiles": [
+    "HelveticaNeueLTPro-Roman.CZM0lEqU.woff2 16KB",
+    "HelveticaNeueLTPro-Md.1iygufGp.woff2 18KB",
+    "HelveticaNeueLTPro-BdEx.igm9BLmi.woff2 20KB",
+    "HelveticaNeueLTPro-Bd.CPteZRuk.woff2 17KB"
+  ]
+}
